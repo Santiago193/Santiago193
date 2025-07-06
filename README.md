@@ -1,18 +1,11 @@
-<table>
-  <tr>
-    <td>
+
       <img 
         src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
         width="200px" 
         alt="gif" 
         style="border-radius: 10px;"
       />
-    </td>
-    
-  </tr>
-</table>
 
-<td>
       <h1>Hi there 👋 I am Santiago David Castillo</h1>
       <em>I develop, automate, and grow by creating real-world solutions.</em>
       <ul>
