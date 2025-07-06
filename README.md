@@ -25,18 +25,31 @@
 </ul>
 
 ## 💻 Technologies 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp&perline=3" />
+  </a>
+</p>
 
-<p align="center"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp&perline=7" />
-  </a> </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,nginx,git,github&perline=4" />
+  </a>
+</p>
 
-<p align="center"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx,git&perline=7" />
-  </a> </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,gmail,gcloud,eclipse&perline=4" />
+  </a>
+</p>
 
-<p align="center"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,discord,gmail,gcloud&perline=7" />
-  </a> </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab,notion,windows,ubuntu&perline=4" />
+  </a>
+</p>
+
+  
  ## 🛠️ Software & Tools
  
 <p>
