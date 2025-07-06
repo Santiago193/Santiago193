@@ -1,5 +1,5 @@
 
-     <table>
+ <table>
   <tr>
     <td>
       <img 
@@ -15,12 +15,7 @@
       <ul>
         <li>💼 Connect with me on <a href="#">LinkedIn</a></li>
         <li>📬 How to reach me: <a href="mailto:isc.patricio@gmail.com">isc.patricio@gmail.com</a></li>
-        <li>🎓 I study Software Engineering</li>
-        <li>💬 Ask me about automation, bots, and web apps</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+        <li>🎓 I study Softwa
 
 ## 💻 Technologies 
 
