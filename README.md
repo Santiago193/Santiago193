@@ -86,7 +86,17 @@
 
 ## 📊 GitHub Stats
 
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiago193&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Santiago193&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago193&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
+
 
 
 ## 😎 Connect with me
