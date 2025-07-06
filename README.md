@@ -11,7 +11,6 @@
     <td>
       <h1>Hi there 👋 I am Santiago David Castillo</h1>
       <em>I develop, automate, and grow by creating real-world solutions.</em>
-
       <ul>
         <li>💼 Connect with me on <a href="#">LinkedIn</a></li>
         <li>📬 How to reach me: <a href="mailto:isc.patricio@gmail.com">isc.patricio@gmail.com</a></li>
