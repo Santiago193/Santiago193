@@ -1,21 +1,22 @@
 
- <table>
-  <tr>
-    <td>
-      <img 
-        src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
-        width="150px" 
-        alt="gif" 
-        style="border-radius: 10px;"
-      />
-    </td>
-    <td style="padding-left: 20px;">
-      <h1>Hi there 👋 I am Santiago David Castillo</h1>
-      <em>I develop, automate, and grow by creating real-world solutions.</em>
-      <ul>
-        <li>💼 Connect with me on <a href="#">LinkedIn</a></li>
-        <li>📬 How to reach me: <a href="mailto:isc.patricio@gmail.com">isc.patricio@gmail.com</a></li>
-        <li>🎓 I study Softwa
+ <h1>Hi there 👋 I am Santiago David Castillo</h1>
+
+<img 
+  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
+  width="150px" 
+  alt="gif" 
+  style="border-radius: 10px; margin-top: 10px; margin-bottom: 10px;"
+/>
+
+<em>I develop, automate, and grow by creating real-world solutions.</em>
+
+<ul>
+  <li>💼 Connect with me on <a href="#">LinkedIn</a></li>
+  <li>📬 How to reach me: <a href="mailto:isc.patricio@gmail.com">isc.patricio@gmail.com</a></li>
+  <li>🎓 I study Software Engineering</li>
+  <li>💬 Ask me about automation, bots, and web apps</li>
+</ul>
+
 
 ## 💻 Technologies 
 
