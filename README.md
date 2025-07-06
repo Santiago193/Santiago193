@@ -26,36 +26,28 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,cpp&perline=3" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,nginx,git,github,discord&perline=5" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gmail,gcp,eclipse,matlab,notion&perline=5" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu&perline=2" />
   </a>
 </p>
- 
+
  ## 🛠️ Software & Tools
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp&perline=3" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,nginx,git,github,discord&perline=5" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail,gcp,eclipse,matlab,notion&perline=5" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu&perline=2" />
-  </a>
-</p>
 
 <p>
   &emsp;
