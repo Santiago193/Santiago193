@@ -12,8 +12,8 @@
 
 <ul>
   <li>💼 Connect with me on <a href="#">LinkedIn</a></li>
-  <li>📬 How to reach me: <a href="mailto:isc.patricio@gmail.com">isc.patricio@gmail.com</a></li>
-  <li>🎓 I study Software Engineering</li>
+  <li>📬 How to reach me: <a href="santiago.castillo7770@gmail.com">isc.patricio@gmail.com</a></li>
+  <li>🎓 I am studing Computer Science Engineering</li>
   <li>💬 Ask me about automation, bots, and web apps</li>
 </ul>
 
