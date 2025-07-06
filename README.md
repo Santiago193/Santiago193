@@ -57,7 +57,15 @@
     &emsp;
     
 </p>
+## 🚀 Projects
 
+- 🧠 **Correo inteligente con IA** – Automatiza clasificación, respuestas y memoria usando Gmail + sss + Groq.
+- 📊 **Dashboard de actividad** – Registra correos en Sheets y genera reportes diarios por Telegram.
+- 🤖 **Flujo de atención al cliente** – Conecta WhatsApp y responde mensajes automáticamente con IA.
+
+![GitHub followers](https://img.shields.io/github/followers/Santiago193?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Santiago193?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Santiago193&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 😎 Connect with me
 <p align="left">
