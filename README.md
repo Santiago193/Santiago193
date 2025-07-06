@@ -1,11 +1,15 @@
 
+     <table>
+  <tr>
+    <td>
       <img 
         src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
-        width="200px" 
+        width="150px" 
         alt="gif" 
         style="border-radius: 10px;"
       />
-
+    </td>
+    <td style="padding-left: 20px;">
       <h1>Hi there 👋 I am Santiago David Castillo</h1>
       <em>I develop, automate, and grow by creating real-world solutions.</em>
       <ul>
@@ -15,6 +19,8 @@
         <li>💬 Ask me about automation, bots, and web apps</li>
       </ul>
     </td>
+  </tr>
+</table>
 
 ## 💻 Technologies 
 
