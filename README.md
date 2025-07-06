@@ -1,26 +1,28 @@
 
-<img 
-  style="float: right; margin-top: 40px;" 
-  height="270px" 
-  alt="guy" 
-  width="350" 
-  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
-/>
+<div style="display: flex; align-items: center; gap: 20px;">
 
- 
-### <h1>Hi there 👋 I am Santiago David Castillo /h1>
+  <!-- Imagen a la izquierda -->
+  <img 
+    src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
+    alt="guy" 
+    width="200" 
+    height="200"
+    style="border-radius: 10px;"
+  />
 
-> I develop, automate, and grow by creating real-world solutions.
-<br />
+  <!-- Texto al lado -->
+  <div align="left">
+    <h1>Hi there 👋 I am Santiago David Castillo</h1>
+    <p><em>I develop, automate, and grow by creating real-world solutions.</em></p>
 
-<!--- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa-->
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- 📫 How to reach me **isc.patricio@gmail.com**
-- 📝 I studied at Tecnológico Nacional de México
-- 💬 Ask me about: anything, I am happy to help
-- 	<img src="https://komarev.com/ghpvc/?username=iscpatricio92&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
-	<a href="https://github.com/iscpatricio92?tab=followers"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br>
+  - 💼 Connect with me on [LinkedIn](#)
+  - 📬 How to reach me: <a href="mailto:isc.patricio@gmail.com">isc.patricio@gmail.com</a>
+  - 🎓 I study Software Engineering
+  - 💬 Ask me about automation, bots, and web apps
+  </div>
+
+</div>
+
 
 ## 💻 Technologies 
 
