@@ -63,12 +63,12 @@
     &emsp;
     
 </p>
-## 🚀 Projects
+🚀🚀  Projects  🚀🚀
 
 - 🧠 **Correo inteligente con IA** – Automatiza clasificación, respuestas y memoria usando Gmail + sss + Groq.
 - 📊 **Dashboard de actividad** – Registra correos en Sheets y genera reportes diarios por Telegram.
 - 🤖 **Flujo de atención al cliente** – Conecta WhatsApp y responde mensajes automáticamente con IA.
-
+- 🔐 Bash script that automates the creation of jailed Linux users with FTP, MySQL, Nginx and web hosting setup in seconds.
 
 
 ## 😎 Connect with me
