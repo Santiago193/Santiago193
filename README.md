@@ -28,28 +28,12 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,cpp&perline=3" />
+    <img src="https://skillicons.dev/icons?i=mysql,nginx,git,github,discord&perline=5" />
+    <img src="https://skillicons.dev/icons?i=gmail,gcp,eclipse,matlab,notion&perline=5" />
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu&perline=2" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,nginx,git,github&perline=4" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,gmail,gcloud,eclipse&perline=4" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,notion,windows,ubuntu&perline=4" />
-  </a>
-</p>
-
-  
+ 
  ## 🛠️ Software & Tools
  
 <p>
