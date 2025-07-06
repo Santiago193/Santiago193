@@ -1,13 +1,11 @@
 <h1>Hi there 👋 I am Santiago David Castillo</h1>
 
-<!-- Badges afuera del h1 -->
 <p align="left">
   <img src="https://img.shields.io/github/followers/Santiago193?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/Santiago193?style=social" />
   <img src="https://komarev.com/ghpvc/?username=Santiago193&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<!-- Imagen -->
 <img 
   src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
   width="150px" 
@@ -35,7 +33,30 @@
 </p>
  
  ## 🛠️ Software & Tools
- 
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp&perline=3" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,nginx,git,github,discord&perline=5" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail,gcp,eclipse,matlab,notion&perline=5" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu&perline=2" />
+  </a>
+</p>
+
 <p>
   &emsp;
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
