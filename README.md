@@ -1,11 +1,13 @@
+<h1>Hi there 👋 I am Santiago David Castillo</h1>
 
- <h1>Hi there 👋 I am Santiago David Castillo\n
- ![GitHub followers](https://img.shields.io/github/followers/Santiago193?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Santiago193?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=Santiago193&label=Profile%20views&color=0e75b6&style=flat)
- </h1>
+<!-- Badges afuera del h1 -->
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Santiago193?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Santiago193?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Santiago193&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-
+<!-- Imagen -->
 <img 
   src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
   width="150px" 
@@ -17,11 +19,10 @@
 
 <ul>
   <li>💼 Connect with me on <a href="#">LinkedIn</a></li>
-  <li>📬 How to reach me: <a href="santiago.castillo7770@gmail.com">isc.patricio@gmail.com</a></li>
+  <li>📬 How to reach me: <a href="mailto:santiago.castillo7770@gmail.com">santiago.castillo7770@gmail.com</a></li>
   <li>🎓 I'm currently studying Computer Science Engineering</li>
   <li>💬 Ask me about automation, bots, and web apps</li>
 </ul>
-
 
 ## 💻 Technologies 
 
