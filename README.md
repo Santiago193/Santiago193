@@ -8,7 +8,11 @@
         style="border-radius: 10px;"
       />
     </td>
-    <td>
+    
+  </tr>
+</table>
+
+<td>
       <h1>Hi there 👋 I am Santiago David Castillo</h1>
       <em>I develop, automate, and grow by creating real-world solutions.</em>
       <ul>
@@ -18,10 +22,6 @@
         <li>💬 Ask me about automation, bots, and web apps</li>
       </ul>
     </td>
-  </tr>
-</table>
-
-
 
 ## 💻 Technologies 
 
