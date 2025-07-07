@@ -1,9 +1,9 @@
 <h1>Hi there 👋 I am Santiago David Castillo</h1>
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/Santiago193?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Santiago193?style=social" />
-  <img src="https://komarev.com/ghpvc/?username=Santiago193&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/SantiagoDav1934?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/SantiagoDav1934?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=SantiagoDav1934&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <img 
