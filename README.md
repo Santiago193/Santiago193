@@ -115,7 +115,7 @@ public class SantiagoProfile {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Santiago193&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4&row=1" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Santiago193&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4&row=1&v=1)
 
 </div>
 
