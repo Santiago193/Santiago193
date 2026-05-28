@@ -105,14 +105,21 @@ public class SantiagoProfile {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santiago193&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago193&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&langs_count=8&cache_seconds=1800" />
+<img src="https://raw.githubusercontent.com/Santiago193/Santiago193/output/profile-summary-card-output/midnight_purple/0-profile-details.svg" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Santiago193&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+<img src="https://raw.githubusercontent.com/Santiago193/Santiago193/output/profile-summary-card-output/midnight_purple/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/Santiago193/Santiago193/output/profile-summary-card-output/midnight_purple/2-most-commit-language.svg" />
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Santiago193/Santiago193/output/profile-summary-card-output/midnight_purple/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/Santiago193/Santiago193/output/profile-summary-card-output/midnight_purple/4-productive-time.svg" />
 
 </div>
 
