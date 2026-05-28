@@ -89,7 +89,13 @@ public class SantiagoProfile {
 
 <div align="center">
 
-[![POS Invoicing System](https://github-readme-stats.vercel.app/api/pin/?username=Santiago193&repo=1016-scastillo-app-java-spring-facturas-pos-backend&theme=midnight-purple&hide_border=true&bg_color=0d0d1a)](https://github.com/Santiago193/1016-scastillo-app-java-spring-facturas-pos-backend)
+### 🧾 [POS Invoicing System](https://github.com/Santiago193/1016-scastillo-app-java-spring-facturas-pos-backend)
+
+<a href="https://github.com/Santiago193/1016-scastillo-app-java-spring-facturas-pos-backend">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres&theme=dark" />
+</a>
+
+*Full POS backend with REST API, invoice management and real-time frontend*
 
 </div>
 
@@ -113,11 +119,6 @@ public class SantiagoProfile {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Santiago193&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4&row=1&v=1)
-
-</div>
 
 <div align="center">
 
