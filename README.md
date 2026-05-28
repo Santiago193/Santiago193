@@ -105,8 +105,13 @@ public class SantiagoProfile {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santiago193&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago193&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&langs_count=8&cache_seconds=1800" />
+<img src="https://github-profile-trophy.vercel.app/?username=Santiago193&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santiago193&theme=tokyo-night&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -122,8 +127,8 @@ public class SantiagoProfile {
 
 <div align="center">
 
-![Snake dark](https://raw.githubusercontent.com/Santiago193/Santiago193/gh-pages/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake light](https://raw.githubusercontent.com/Santiago193/Santiago193/gh-pages/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake dark](https://raw.githubusercontent.com/Santiago193/Santiago193/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake light](https://raw.githubusercontent.com/Santiago193/Santiago193/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
