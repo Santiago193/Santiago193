@@ -1,114 +1,163 @@
-<h1>Hi there 👋 I am Santiago David Castillo</h1>
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/Santiago193?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Santiago193?style=social" />
-  <img src="https://komarev.com/ghpvc/?username=Santiago193&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Santiago%20David%20Castillo&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Automation%20%7C%20AI%20Integration&descAlignY=58&descSize=16&animation=fadeIn" />
 
-<img 
-  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
-  width="150px" 
-  alt="gif" 
-  style="border-radius: 10px; margin-top: 10px; margin-bottom: 10px;"
-/>
-
-<em>I develop, automate, and grow by creating real-world solutions.</em>
-
-<ul>
-  <li>💼 Connect with me on <a href="#">LinkedIn</a></li>
-  <li>📬 How to reach me: <a href="mailto:santiago.castillo7770@gmail.com">santiago.castillo7770@gmail.com</a></li>
-  <li>🎓 I'm currently studying Computer Science Engineering</li>
-  <li>💬 Ask me about automation, bots, and web apps</li>
-</ul>
-
-## 💻 Technologies 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp&perline=3" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,nginx,git,github,discord&perline=5" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail,gcp,eclipse,matlab,notion&perline=5" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu&perline=2" />
-  </a>
-</p>
-
- ## 🛠️ Software & Tools
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Node.js+%7C+PostgreSQL;Automation+%26+AI+Integration+%F0%9F%A4%96;Building+real-world+backend+systems+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <p>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-&emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/MacOS--9cf?style=for-the-badge&logo=apple&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
-    &emsp;
-     <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-    &emsp; 
-   <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
-    &emsp;
-    
+  <img src="https://komarev.com/ghpvc/?username=Santiago193&label=Profile+Views&color=7c3aed&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Santiago193?label=Followers&style=flat-square&color=7c3aed" />
+  <img src="https://img.shields.io/github/stars/Santiago193?style=flat-square&color=7c3aed&label=Stars" />
 </p>
-## 🚀🚀  Projects  🚀🚀
 
-- 🧠 **Correo inteligente con IA** – Automatiza clasificación, respuestas y memoria usando Gmail + sss + Groq.
-- 📊 **Dashboard de actividad** – Registra correos en Sheets y genera reportes diarios por Telegram.
-- 🤖 **Flujo de atención al cliente** – Conecta WhatsApp y responde mensajes automáticamente con IA.
-- 🔐 Bash script that automates the creation of jailed Linux users with FTP, MySQL, Nginx and web hosting setup in seconds.
+</div>
+
+---
+
+## 🧠 About Me
+
+```java
+@RestController
+public class SantiagoProfile {
+
+    private final String name        = "Santiago David Castillo";
+    private final String role        = "Backend Developer";
+    private final String focus       = "Spring Boot · REST APIs · Automation";
+    private final String studying    = "Computer Science Engineering";
+    private final String[] building  = {"Scalable APIs", "AI-powered bots", "Automated workflows"};
+    private final boolean openToWork = true;
+
+    public String getMotivation() {
+        return "I don't just write code — I build systems that solve real problems.";
+    }
+}
+```
+
+---
+
+## ⚙️ Backend Stack
+
+<div align="center">
+
+### Core — What I build with
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
+</p>
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,ts,python,cpp,bash" />
+</p>
+
+### Infrastructure & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,postman" />
+</p>
+
+### Also familiar with
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,matlab" />
+</p>
+
+</div>
+
+---
+
+## 🤖 Automation & AI Integration
+
+<div align="center">
+
+| Tool | Use |
+|------|-----|
+| 🔁 **n8n** | Workflow orchestration & automation |
+| 🧠 **Groq / Kimi K2** | LLM-powered response generation |
+| ✨ **Google Gemini 2.5** | Image analysis & media processing |
+| 📲 **WhatsApp (Evolution API)** | Conversational AI bots |
+| 🤖 **Telegram Bot API** | Admin panels & real-time notifications |
+| ⚡ **Socket.IO** | Real-time data streaming (IoT) |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 🧾 [**POS Invoicing System**](https://github.com/Santiago193/1016-scastillo-app-java-spring-facturas-pos-backend) | Spring Boot · Angular · PostgreSQL | Full POS backend with REST API, invoice management and real-time frontend |
+| 🏨 [**Hotel AI Automation**](https://github.com/Santiago193/1006-scastillo-n8n-hotel-automation) | n8n · Groq · Gemini · WhatsApp · PostgreSQL | AI-powered WhatsApp bot that handles customer service, detects payments and escalates to human support |
+| 🛒 [**Hotel E-Commerce**](https://github.com/Santiago193/1004-scastillo-ecommerce-hotel-html) | Java · JSP · PostgreSQL · Bootstrap | Full hotel booking platform with admin panel, audit logs and 3D room previews |
+| 🔐 [**Jailed Linux Users**](https://github.com/Santiago193/1007-scastillo-create-jailed-linux-users) | Bash · Nginx · MySQL · vsftpd | Script that provisions isolated Linux users with FTP, web hosting and dedicated DB in seconds |
+| � [**IoT Alert System**](https://github.com/Santiago193/1013-scastillo-app-angular-IOT-back) | Node.js · Socket.IO · MongoDB · Telegram | Real-time backend for ESP32 devices — streams GPS, accelerometer data and triggers emergency alerts |
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Santiago193&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago193&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santiago193&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago193&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&langs_count=8" />
 
+</div>
 
-## 😎 Connect with me
-<p align="left">
-  
-<a href="https://linkedin.com/in/patricio-gomez" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9591889/patricio" target="blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="patricio" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@iscpatricio" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="iscpatricio" height="30" width="40" /></a>
-<a href="mailTo:isc.patricio@gmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="iscpatricio" height="30" width="40" /></a>
-<a href="https://github.com/iscpatricio92" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
-</p>
-<br>
+<div align="center">
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago193&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
 
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santiago193/Santiago193/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santiago193/Santiago193/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Santiago193/Santiago193/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sdcastillo">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sdcastillo.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Santiago193">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@dav_.spottt">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.tiktok.com/@dav_.spot">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
