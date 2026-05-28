@@ -105,14 +105,14 @@ public class SantiagoProfile {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santiago193&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago193&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santiago193&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago193&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&langs_count=8&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago193&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+<img src="https://streak-stats.demolab.com/?user=Santiago193&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
 
 </div>
 
