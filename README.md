@@ -122,11 +122,8 @@ public class SantiagoProfile {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Santiago193/Santiago193/blob/gh-pages/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Santiago193/Santiago193/blob/gh-pages/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Santiago193/Santiago193/blob/gh-pages/github-contribution-grid-snake-dark.svg" />
-</picture>
+![Snake dark](https://raw.githubusercontent.com/Santiago193/Santiago193/gh-pages/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake light](https://raw.githubusercontent.com/Santiago193/Santiago193/gh-pages/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
