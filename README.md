@@ -85,7 +85,17 @@ public class SantiagoProfile {
 
 ---
 
-## 🚀 Featured Projects
+## � Currently Working On
+
+<div align="center">
+
+[![POS Invoicing System](https://github-readme-stats.vercel.app/api/pin/?username=Santiago193&repo=1016-scastillo-app-java-spring-facturas-pos-backend&theme=midnight-purple&hide_border=true&bg_color=0d0d1a)](https://github.com/Santiago193/1016-scastillo-app-java-spring-facturas-pos-backend)
+
+</div>
+
+---
+
+## �🚀 Featured Projects
 
 <div align="center">
 
@@ -106,6 +116,17 @@ public class SantiagoProfile {
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Santiago193&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+</div>
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
